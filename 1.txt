@@ -1,1 +1,3 @@
 line-1 added to 1.txt
+
+line-2 added to 1.txt file   : task finished
